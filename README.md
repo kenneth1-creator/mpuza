@@ -50,7 +50,7 @@ It provides users with job postings, profile management, notifications, company 
 
 1. Download or clone the project:
    ```bash
-   git clone https://github.com/your-username/mpuza-ui.git
+   git clone https://github.com/kenneth1-creator/mpuza-ui.git
 
 
 
