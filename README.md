@@ -5,6 +5,12 @@ It provides users with job postings, profile management, notifications, company 
 
 ---
 
+## Output Screenshot
+
+---
+
+![Output Screenshot](screenshot.png)
+
 ## Features
 
 - **Top Navigation Bar**
